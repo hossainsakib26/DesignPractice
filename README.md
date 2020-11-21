@@ -1,6 +1,7 @@
 # ApplicationDesign
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60d85b2a-c44b-4cda-8bea-78038a120330/deploy-status)](https://app.netlify.com/sites/designp/deploys)
 
 ## Development server
 

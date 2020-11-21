@@ -1,0 +1,102 @@
+.content{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.left-panel{
+    float: left;
+    width: 40%;
+    height: 540px;
+    margin-top: 1%;
+    margin-left: 2.5%;
+    color: rgb(11, 13, 165);
+    
+}
+.wish-container{
+    height: 300px;
+
+}
+.wish{
+    height: 100px;
+    width: 150px;
+    margin: 0;
+}
+.svgImg{
+    height: 40px;
+    width: 40px;
+    margin: 0;
+    
+}
+.hText{
+    margin: 0;
+    font-weight: 700;
+    
+}
+.wish-text{
+    padding: 1%;
+    margin-top: 2%;
+}
+.wish-text-header{
+    font-weight: 700;
+}
+.wish-text-details{
+    font-weight: 400;
+}
+.developer-activity{
+    margin-top: 2%;
+    height: 450px;
+    width: 100%;
+}
+
+.rightPannel{
+    float: right;
+    width: 40%;
+    padding: 5%;
+}
+/* card */
+.card{
+    margin-top: 30%;
+    width: 100%;
+    box-shadow: 5px 5px 5px 2px rgba(177, 148, 148, 0.2);
+    transition: 1.3s;
+    background-color:rgb(221, 78, 88);
+}
+
+.centerForm{
+    margin: 0;
+    padding: 10%;
+}
+
+.textboxContent{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.boxDesign{
+    border-radius: 5px;
+    width: 100%;
+    height: 15px;
+    padding: 10px;
+}
+
+.buttonPosition{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.btnSignIn{
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px;
+    border-color: brown;
+    transition-duration: 1s;
+    position: relative;
+    left: 345px;
+    top: 0px;
+}
+.btnSignIn:hover{
+    background-color: blueviolet;
+    color: white;
+}
